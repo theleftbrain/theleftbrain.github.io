@@ -1,7 +1,7 @@
 
 span{
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
 
 #header{
@@ -26,11 +26,6 @@ span{
 	background-color: #F0F0F0;
 	margin-top: 20px;
 	padding-top: 26px;
-}
-
-#nav_entry{
-	margin-left: 25px;
-	margin-right: 25px;
 }
 
 #right_bar{
